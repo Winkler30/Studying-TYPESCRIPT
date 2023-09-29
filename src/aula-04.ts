@@ -12,9 +12,8 @@ const usuario: Usuarios = {
   cidade: "São Paulo",
   pessoa: {
     idade: 43,
-    nome: "João",
+    nome: "Joo",
   },
 };
-
 
 console.log(usuario);
